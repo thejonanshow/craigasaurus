@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Craigasaurus::VERSION
   spec.authors       = ["Jonan Scheffler"]
   spec.email         = ["jonanscheffler@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Craigasaurus can be used to discover Craigslist URLs, search RSS feeds for keyword combinations and count keywords across multiple sites.}
+  spec.summary       = %q{Craigasaurus is a utility gem for discovering and searching Craigslist sites.}
+  spec.homepage      = "https://github.com/1337807/craigasaurus"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
